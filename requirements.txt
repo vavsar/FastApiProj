@@ -1,0 +1,6 @@
+fastapi~=0.116.1
+pydantic~=2.11.7
+starlette~=0.47.3
+SQLAlchemy~=2.0.43
+alembic~=1.16.5
+passlib~=1.7.4
